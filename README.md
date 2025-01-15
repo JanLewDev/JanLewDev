@@ -24,8 +24,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janlewdev&show_icons=true&locale=en" alt="janlewdev" /></p> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JanLewDev&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlewdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
