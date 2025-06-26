@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="left" style="font-family:courier">Mathematics student at the Wrocław University of Science and Technology.</h3>
-<h3 align="left" style="font-family:courier">Changing the world one line of code at a time (hopefully not a buggy one) :)</h3>
+<h3 align="left" style="font-family:courier">Changing the world one line of code at a time :)</h3>
 <h3 align="left" style="font-size: 20px; font-family:firacode">More about me and connect with me ⮕
 <a href="https://www.linkedin.com/in/jan--lewandowski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
