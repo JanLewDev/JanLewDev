@@ -14,7 +14,7 @@
 
 # Stats?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlewdev&layout=compact&theme=vision-friendly-dark&exclude_repo=travel-agency-mysql)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlewski&layout=compact&theme=vision-friendly-dark&exclude_repo=travel-agency-mysql)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=janlewdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=janlewdev&theme=dark&hide_border=true)<br/>
